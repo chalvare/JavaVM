@@ -1,0 +1,13 @@
+mv.Strategy
+mv.command
+mv.cpu
+mv.excepciones
+mv.gui.swing
+mv.instruction
+mv.instruction.aritmeticas
+mv.instruction.booleanas
+mv.instruction.comparacion
+mv.instruction.otrasBinary
+mv.instruction.otrasUnary
+mv.instruction.salto
+mv.main
